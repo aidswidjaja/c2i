@@ -1,2 +1,2 @@
-# c2i
-Click to import beatmaps into your osu! macOS Wineskin wrapper.
+dead cpp project, don't mind me.
+warning: ugly broken code incoming
